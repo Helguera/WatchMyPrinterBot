@@ -12,6 +12,7 @@ It's  **important** to know that this bot is not allocated on a public server. S
   - **/checkPrinter** - sends a video of what your camera is aiming
   - **/setSeconds 'seconds'** - change seconds to be recorded
 
+![alt-text](https://raw.githubusercontent.com/Helguera/WatchMyPrinterBot/master/images/tutorial1.png)
 
 
 
@@ -19,9 +20,9 @@ It's  **important** to know that this bot is not allocated on a public server. S
 ## Installation
 ### Create a Telegram Bot
 1. Start a conversation with [@BotFather](https://telegram.me/BotFather)
-2. Write '/newbot' and follow the instructions. It will give you a **token**, please, remember it!
+2. Write '***/newbot***' and follow the instructions. It will give you a **token**, please, remember it!
 
-
+![alt-text](https://raw.githubusercontent.com/Helguera/WatchMyPrinterBot/master/images/tutorial2.png)
 ### Set up everything on a Raspberry Pi
 
 WMPBot requires [Python2.7](https://www.python.org/), [Telepot](https://github.com/nickoala/telepot) and [OpenCV](https://opencv.org/) to run.
