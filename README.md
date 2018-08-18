@@ -1,8 +1,8 @@
-# WachMyPrinterBot
+# WatchMyPrinterBot
 
 WatchMyPrinterBot (**WMPBot**) is a Telegram Bot made to check how your 3D printer is working when you are not at home. Basically it records a video of the seconds that you want and send it to your Telegram App (desktop, web or mobile).
 
-It's  **important** to know that this bot is not allocated on a public server. So you have to download it and execute it on a machine (preferible a Raspberry Pi) with a camera connected to it. There is a full-exaplained tutorial below, don't worry.
+It's  **important** to know that this bot is not allocated on a public server. So you have to download it and execute it on a machine (preferably a Raspberry Pi) with a camera connected to it. There is a full-explained tutorial below, don't worry.
 
 ## Commands
 
@@ -20,7 +20,7 @@ It's  **important** to know that this bot is not allocated on a public server. S
 ## Installation
 ### Create a Telegram Bot
 1. Start a conversation with [@BotFather](https://telegram.me/BotFather)
-2. Write '***/newbot***' and follow the instructions. It will give you a **token**, please, remember it!
+2. Write '*/newbot*' and follow the instructions. It will give you a **token**, please, remember it!
 
 ![alt-text](https://raw.githubusercontent.com/Helguera/WatchMyPrinterBot/master/images/tutorial2.png)
 ### Set up everything on a Raspberry Pi
